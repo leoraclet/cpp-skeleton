@@ -1,4 +1,4 @@
-# Cmake build directory
+# Remove Cmake build directory
 build/
-# CLion config folder
+# Remove CLion config folder
 .idea/

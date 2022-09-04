@@ -1,10 +1,10 @@
 # cpp_skeleton
 
-![License](https://img.shields.io/github/license/leoraclet/cpp_skeleton)
+![License](https://img.shields.io/github/license/leoraclet/cpp-skeleton)
 
 This is a simple template skeleton for graphics C++ projects using SFML and ImGui.
 
-![](shared/misc/cpp_skeleton.png)
+![](shared/misc/cpp-skeleton.png)
 
 ## Summary
 
