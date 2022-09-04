@@ -8,7 +8,6 @@ This is a simple template skeleton for graphics C++ projects using SFML and ImGu
 
 ## Summary
 
-* **[Summary](#summary)**
 * **[Libraries](#libraries)**
 * **[Releases](#releases)**
 * **[License](#license)**
@@ -34,6 +33,6 @@ To run the program without editing the source code or building
 it yourself, go see the 
 [**Releases**](https://github.com/leoraclet/cpp_skeleton/releases).
 
-# Credits
+## Credits
 
 * [**Léo Raclet**](https://github.com/leoraclet) : Creator of the project.
