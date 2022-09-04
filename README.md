@@ -1,4 +1,4 @@
-# cpp_skeleton
+# cpp-skeleton
 
 ![License](https://img.shields.io/github/license/leoraclet/cpp-skeleton)
 
