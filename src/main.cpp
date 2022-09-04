@@ -1,12 +1,14 @@
 // C++
 #include <iostream>
-// Imgui
+// IMGUI
 #include <imgui/imgui.h>
 #include <imgui/imgui-SFML.h>
-// Glad
+// GLAD
 #include <glad/glad.h>
-// Sfml
+// SFML
 #include <SFML/Graphics.hpp>
+// Local
+#include <header.hpp>
 
 int main()
 {
