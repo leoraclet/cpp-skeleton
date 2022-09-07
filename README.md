@@ -9,9 +9,18 @@ This is a simple template skeleton for graphics C++ projects using SFML and ImGu
 ## Summary
 
 * **[Libraries](#libraries)**
+* **[Build](#build)**
 * **[Releases](#releases)**
 * **[License](#license)**
 * **[Credits](#credits)**
+
+## Build
+
+To build this project, you need to have Cmake installed on your system.
+
+#### Linux
+
+#### Windows
 
 ## Libraries
 
