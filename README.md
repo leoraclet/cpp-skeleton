@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/leoraclet/cpp-skeleton)
 
-This is a simple template skeleton for graphics C++ projects using SFML and ImGui.
+This is a simple template skeleton for graphics C++ projects using SFML and Dear ImGui.
 
 ## Summary
 
