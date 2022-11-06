@@ -4,8 +4,6 @@
 
 This is a simple template skeleton for graphics C++ projects using SFML and ImGui.
 
-![](shared/misc/cpp-skeleton.png)
-
 ## Summary
 
 * **[Libraries](#libraries)**
